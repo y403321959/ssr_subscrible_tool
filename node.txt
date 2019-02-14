@@ -4,7 +4,7 @@
 
 ## google自建ssr-9
 
-ssr://MzUuMjAxLjI1NS45NDoyMzMzOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOmR6azFNVEkwTlRjNC8_b2Jmc3BhcmFtPSZyZW1hcmtzPWMzTnlMVGcmZ3JvdXA9WjI5dloyeGxJT2lIcXVlVXFB
+ssr://MzUuMjAxLjI1NS45NDoyMzMzOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOmR6azFNVEkwTlRjNC8_b2Jmc3BhcmFtPSZyZW1hcmtzPWMzTnlMVGsmZ3JvdXA9WjI5dloyeGxJT2lIcXVlVXFB
 
 ## google自建v2ray-001
 
